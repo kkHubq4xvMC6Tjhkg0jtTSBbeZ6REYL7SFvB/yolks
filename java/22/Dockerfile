@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH eclipse-temurin:22-jdk-noble
+FROM        --platform=$TARGETOS/$TARGETARCH eclipse-temurin:24-jdk-noble
 
 LABEL       author="Michael Parker" maintainer="parker@pterodactyl.io"
 
